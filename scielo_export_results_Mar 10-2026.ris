@@ -1,0 +1,920 @@
+﻿TY  - JOUR
+AU  - Martínez-Blanco, Yorguin Eduardo
+AU  - Turpo-Chaparro, Josue Edison
+TI  - Compromiso organizacional en el profesorado universitario: mapeo bibliométrico y revisión temática complementaria
+TT  - Organizational commitment in university professors: A bibliometric study.
+JO  - Prohominum. Revista de Ciencias Sociales y Humanas
+J2  - Prohominum
+SN  - 2665-0169
+VL  - 8
+IS  - 1
+DO  - 10.47606/acven/ph0423
+DB  - SciELO Venezuela
+DP  - http://www.scielo.org/
+ID  - S2665-01692026000100008-ven
+LA  - es
+SP  - 8
+EP  - 26
+DA  - 2026-03
+PY  - 2026
+AB  - ABSTRACT Organizational commitment among university faculty represents a key construct for understanding academic performance, institutional retention, and occupational well-being in higher education. The aim of this study was to analyze research trends on organizational commitment in university faculty through a bibliometric study and a thematic review of recent scientific literature. The research adopted a quantitative-descriptive approach, based on the analysis of documents indexed in the Scopus and Web of Science databases, published between 2020 and 2024 (consultation date: September 15, 2024), using a structured search strategy in TITLE-ABS-KEY. The final corpus comprised 352 documents, which were analyzed using the Bibliometrix package (v4.0.0) in R and VOSviewer software (v1.6.20) to examine indicators of scientific production, citation, collaboration, and keyword co-occurrence. Additionally, a thematic review of 25 studies from Google Scholar, SciELO, and Dialnet was conducted. The results reveal a sustained growth in scientific output, with the main thematic clusters centered on job satisfaction, transformational leadership, and burnout. A geographical concentration of research activity was also identified. It is concluded that the field exhibits a consolidated thematic structure and a multifactorial nature, highlighting the need for further qualitative research and studies in underrepresented geographical contexts to achieve a more comprehensive understanding of the phenomenon.
+AB  - RESUMEN El compromiso organizacional en docentes universitarios constituye un constructo clave para comprender la calidad del desempeño académico, la permanencia institucional y el bienestar laboral en la educación superior. El presente estudio tuvo como objetivo analizar las tendencias de investigación sobre el compromiso organizacional en docentes universitarios, a partir de un estudio bibliométrico y una revisión temática de la producción científica reciente. La investigación se desarrolló bajo un enfoque cuantitativo-descriptivo, mediante la revisión de documentos indexados en las bases de datos Scopus y Web of Science, publicados entre 2020 y 2024 (fecha de consulta: 15 de septiembre de 2024), utilizando una estrategia de búsqueda estructurada en TITLE-ABS-KEY. El corpus final estuvo conformado por 352 documentos, los cuales fueron analizados mediante el paquete Bibliometrix (v4.0.0) en R y el software VOSviewer (v1.6.20), con el fin de examinar indicadores de producción científica, citación, colaboración y co-ocurrencia de palabras clave. De manera complementaria, se realizó una revisión temática de 25 estudios procedentes de Google Académico, SciELO y Dialnet. Los resultados evidencian un crecimiento sostenido de la producción científica, destacando como principales líneas temáticas la satisfacción laboral, el liderazgo transformacional y el burnout. Asimismo, se identificó una concentración geográfica de la investigación en determinados países. Se concluye que el campo presenta una estructura temática consolidada y una naturaleza multifactorial, lo que plantea la necesidad de profundizar mediante enfoques cualitativos y estudios en contextos menos representados.
+UR  - http://ve.scielo.org/scielo.php?script=sci_arttext&pid=S2665-01692026000100008&lang=pt
+L1  - http://www.scielo.org.ve/pdf/prcsh/v8n1/2665-0169-prcsh-8-01-8.pdf
+KW  - Compromiso organizacional
+KW  - docentes universitarios
+KW  - análisis bibliométrico
+KW  - educación superior
+KW  - liderazgo
+KW  - Organizational commitment
+KW  - university faculty
+KW  - bibliometric analysis
+KW  - higher education
+KW  - leadership
+ER  -
+
+TY  - JOUR
+AU  - Duran-Ponce, Grethsy S.
+AU  - Flores-Mamani, Emilio
+TI  - Mercadeo interno, compromiso organizacional y su relación con el clima laboral en los docentes universitarios
+TT  - Internal marketing, organizational commitment, and their relationship with the work climate of university faculty
+JO  - Formación universitaria
+J2  - Form. Univ.
+SN  - 0718-5006
+VL  - 18
+IS  - 5
+DO  - 10.4067/s0718-50062025000500179
+DB  - SciELO Chile
+DP  - http://www.scielo.org/
+ID  - S0718-50062025000500179-chl
+LA  - es
+SP  - 179
+EP  - 188
+DA  - 2025-10
+PY  - 2025
+AB  - Abstract: The main objective is this research study is to analyze the correlation between the variables internal marketing and organizational commitment with the work climate of university faculty, based on three theoretical frameworks: Bohnenberger, focused on internal marketing, Meyer and Allen, centered on organizational commitment, and Litwin and Stringer, concerning work climate. The methodology is descriptive-correlational, using a structured questionnaire of 92 items with a 5-point rating scale, applied to a probabilistic sample of 309 professors from a total population of 1558. The results show a positive and significant correlation between the variables. The relationship between internal marketing and work climate is moderate while the relationship between organizational commitment and work climate is low. It is concluded that improvements in internal marketing and organizational commitment are positively associated with a better work environment in the universities examined.
+AB  - Resumen: El principal objetivo de esta investigación es analizar la correlación entre las variables mercadeo interno y compromiso organizacional con el clima laboral de los docentes universitarios, fundamentado en tres teorías: la de Bohnenberger, centrada en el mercadeo interno, la de Meyer y Allen, enfocada en el compromiso organizacional y la de Litwin y Stringer para el clima laboral. La metodología es descriptiva-correlacional, utilizando un cuestionario estructurado de 92 ítems con una escala de evaluación del 1 al 5 aplicado a la muestra probabilística de 309 docentes de una población total de 1558. Los resultados muestran que existe una correlación positiva y significativa entre las variables. La relación entre las variables mercadeo interno y clima laboral es moderada, mientras que la relación entre las variables compromiso organizacional y clima laboral es baja. Se concluye que cuanto mejor sean las variables mercadeo interno y compromiso organizacional mejor será el clima laboral en las universidades examinadas.
+UR  - http://www.scielo.cl/scielo.php?script=sci_arttext&pid=S0718-50062025000500179&lang=pt
+L1  - http://www.scielo.cl/pdf/formuniv/v18n5/0718-5006-formuniv-18-05-179.pdf
+KW  - docencia universitaria
+KW  - clima laboral
+KW  - cliente interno
+KW  - compromiso organizacional
+KW  - mercadeo interno
+KW  - university teaching
+KW  - work environment
+KW  - internal customer
+KW  - organizational commitment
+KW  - internal marketing
+ER  -
+
+TY  - JOUR
+AU  - Mañaccasa Vásquez, Maria Soledad
+AU  - Páliza Champi, Mercy Noelia
+TI  - Percepción de la acreditación y actitud del personal en una universidad peruana
+TT  - Perception of accreditation and staff attitude at a Peruvian university
+TT  - Percepção de acreditação e atitude da equipe em uma universidade peruana
+JO  - Horizontes Revista de Investigación en Ciencias de la Educación
+J2  - Horizontes Rev. Inv. Cs. Edu.
+SN  - 2616-7964
+VL  - 9
+IS  - 39
+DO  - 10.33996/revistahorizontes.v9i39.1061
+DB  - SciELO Bolívia
+DP  - http://www.scielo.org/
+ID  - S2616-79642025000402431-bol
+LA  - es
+SP  - 2431
+EP  - 2444
+DA  - 2025-09
+PY  - 2025
+AB  - ABSTRACT For the sustainability of educational quality standards in accreditation, the attitude of the personnel involved plays a fundamental role. Due to this, the present research aimed to determine the relationship between the perception of accreditation and the attitudes of the teaching and non-teaching staff of the Faculty of Education of the Federico Villarreal National University, in Peru. Using a quantitative, correlational approach, non-experimental and cross-sectional design, two questionnaires were applied to 131 participants. The results showed a poor perception of accreditation for 52% and a bad attitude for 45%. In addition, a positive and significant correlation was found between the variables (r = 0.971), as well as with the dimensions of attitude: cognitive (r = 0.944), affective (r = 0.932) and behavioral (r = 0.918). It is concluded that strengthening a favorable and proactive attitude is significant in accreditation processes.
+AB  - RESUMEN Para la sostenibilidad de los estándares de calidad educativa en la acreditación, la actitud del personal involucrado desempeña un papel fundamental. Debido a esto, la presente investigación tuvo como objetivo determinar la relación entre la percepción de la acreditación y las actitudes del personal docente y no docente de la Facultad de Educación de la Universidad Nacional Federico Villarreal, en Perú. Mediante un enfoque cuantitativo, correlacional, diseño no-experimental y corte transversal, se aplicaron dos cuestionarios a 131 participantes. Los resultados evidenciaron una percepción de la acreditación deficiente para el 52 % y una actitud mala para el 45 %. Además, se encontró una correlación positivas y significativas entre las variables (r = 0,971), así como con las dimensiones de la actitud: cognitiva (r = 0,944), afectiva (r = 0,932) y conductual (r = 0,918). Se concluye que, fortalecer una actitud favorable y proactiva es significativo en los procesos de acreditación.
+AB  - RESUMO Para a sustentabilidade dos padrões de qualidade educacional na acreditação, a atitude do pessoal envolvido desempenha um papel fundamental. Por esse motivo, a presente pesquisa teve como objetivo determinar a relação entre a percepção da acreditação e as atitudes do corpo docente e não docente da Faculdade de Educação da Universidade Nacional Federico Villarreal, no Peru. Utilizando uma abordagem quantitativa, correlacional, delineamento não experimental e corte transversal, dois questionários foram aplicados a 131 participantes. Os resultados mostraram uma percepção ruim da acreditação para 52% e uma atitude ruim para 45%. Além disso, foi encontrada correlação positiva e significativa entre as variáveis (r = 0,971), bem como com as dimensões da atitude: cognitiva (r = 0,944), afetiva (r = 0,932) e comportamental (r = 0,918). Conclui-se que fortalecer uma atitude favorável e proativa é significativo nos processos de acreditação.
+UR  - http://www.scielo.org.bo/scielo.php?script=sci_arttext&pid=S2616-79642025000402431&lang=pt
+KW  - Acreditação
+KW  - Atitude da equipe
+KW  - Qualidade educacional
+KW  - Comprometimento organizacional
+KW  - Ensino superior
+KW  - Acreditación
+KW  - Actitud del personal
+KW  - Calidad educativa
+KW  - Compromiso organizacional
+KW  - Educación superior
+KW  - Accreditation
+KW  - Staff attitude
+KW  - Educational quality
+KW  - Organizational commitment
+KW  - Higher education
+ER  -
+
+TY  - JOUR
+AU  - Prado Minchola, Guillermo Oscar
+TI  - Felicidad en el trabajo y compromiso organizacional en docentes universitarios
+TT  - Happiness in the workplace and organizational commitment in university teachers
+TT  - Felicidade no trabalho e comprometimento organizacional entre professores universitários
+JO  - Horizontes Revista de Investigación en Ciencias de la Educación
+J2  - Horizontes Rev. Inv. Cs. Edu.
+SN  - 2616-7964
+VL  - 9
+IS  - 36
+DO  - 10.33996/revistahorizontes.v9i36.913
+DB  - SciELO Bolívia
+DP  - http://www.scielo.org/
+ID  - S2616-79642025000100223-bol
+LA  - es
+SP  - 223
+EP  - 233
+DA  - 2025-03
+PY  - 2025
+AB  - ABSTRACT In the current educational context, understanding the relationship between happiness at work and organizational commitment is crucial to improve performance and well-being in institutions. The aim of this study was to determine this relationship in teachers of a private university under a descriptive-correlational approach, using a sample of 174 randomly selected teachers. The Meyer and Allen (1991) instrument, adapted by Mariluz and Mendez (2022), was used to measure organizational commitment, and the Del Junco (2013) instrument was used to measure happiness at work. The results showed a significant relationship (p<0.05) between both variables in all the models evaluated. In conclusion, the importance of fostering happiness at work to strengthen organizational commitment is highlighted, which can improve the educational environment and the well-being of teachers.
+AB  - RESUMEN En el contexto educativo actual, entender la relación entre la felicidad en el trabajo y el compromiso organizacional es crucial para mejorar el desempeño y bienestar en las instituciones. Este estudio, tuvo como objetivo determinar dicha relación en docentes de una universidad privada bajo un enfoque descriptivo-correlacional, utilizando una muestra de 174 docentes seleccionados aleatoriamente. Para medir el compromiso organizacional se utilizó el instrumento de Meyer y Allen (1991), adaptado por Mariluz y Mendez (2022), y para la felicidad en el trabajo, el instrumento de Del Junco (2013). Los resultados mostraron una relación significativa (p<0.05) entre ambas variables en todos los modelos evaluados. En conclusión, se destaca la importancia de fomentar la felicidad laboral para fortalecer el compromiso organizacional, lo que puede mejorar el ambiente educativo y el bienestar de los docentes.
+AB  - RESUMO No atual contexto educacional, compreender a relação entre felicidade no trabalho e comprometimento organizacional é fundamental para melhorar o desempenho e o bem-estar das instituições. Este estudo teve como objetivo determinar essa relação em professores de uma universidade privada sob uma abordagem descritivo-correlacional, usando uma amostra de 174 professores selecionados aleatoriamente. O instrumento de Meyer e Allen (1991), adaptado por Mariluz e Mendez (2022), foi usado para medir o comprometimento organizacional, e o instrumento de Del Junco (2013) foi usado para medir a felicidade no trabalho. Os resultados mostraram uma relação significativa (p<0,05) entre as duas variáveis em todos os modelos avaliados. Em conclusão, destaca-se a importância de promover a felicidade no trabalho para fortalecer o comprometimento organizacional, o que pode melhorar o ambiente educacional e o bem-estar dos professores.
+UR  - http://www.scielo.org.bo/scielo.php?script=sci_arttext&pid=S2616-79642025000100223&lang=pt
+KW  - Felicidade no trabalho
+KW  - Comprometimento organizacional
+KW  - Ambientes de trabalho
+KW  - Gestão educacional
+KW  - Professores universitários
+KW  - Felicidad en el trabajo
+KW  - Compromiso organizacional
+KW  - Ambientes laborales
+KW  - Gestión educativa
+KW  - Docentes universitarios
+KW  - Happiness at work
+KW  - Organizational commitment
+KW  - Work environments
+KW  - Educational management
+KW  - University teachers
+ER  -
+
+TY  - JOUR
+AU  - Frescas Villalobos, Raúl Hiram
+AU  - Prieto Quintana, César Omar
+AU  - Sánchez Baltasar, Laura Berenice
+AU  - Mayett Moreno, Yésica
+TI  - Relación entre compromiso organizacional y estilo de liderazgo en personal de una universidad pública en Chihuahua, México
+TT  - Relation between Organization Commitment and Leadership Style in staff of a Public University in Chihuahua, Mexico
+TT  - Relação entre comprometimento organizacional e estilo de liderança em pessoal de uma universidade pública em Chihuahua, México
+JO  - RIDE. Revista Iberoamericana para la Investigación y el Desarrollo Educativo
+J2  - RIDE. Rev. Iberoam. Investig. Desarro. Educ
+SN  - 2007-7467
+VL  - 14
+IS  - 28
+DO  - 10.23913/ride.v14i28.1914
+DB  - SciELO México
+DP  - http://www.scielo.org/
+ID  - S2007-74672024000100666-mex
+LA  - es
+SP  - 
+EP  - 
+DA  - 2024-06
+PY  - 2024
+AB  - Abstract The objective of this research was measuring organizational commitment as well as developing a commitment management model and their relation with leadership styles to determine growth and motivation strategies in faculty and staff in a public university in the City of Chihuahua. A multidimensional (affective, continuance, and normative) model of organizational commitment and the short version of the MLQ (Multifactor Leadership Questionnaire) for leadership styles (transformational, transactional, and laissez-faire) were used. A non-experimental study with a descriptive and correlational scope was carried out, applying an instrument comprising 21 items to measure organizational commitment and 25 items to measure leadership style. Non probabilistic convenience sampling was conducted with 698 employees (60.1% faculty and 39.9% administrative staff). Data were analyzed with the SPSS statistics system, applying descriptive statistics, and Spearman's Rho nonparametric correlation tool. Results showed a strong degree of organizational commitment in the affective and normative dimensions, in a limit inferior; in addition to this, it was determined that the transformational and transactional leadership styles have a strong level. Furthermore, it is claimed that there is a close positive relation between organizational commitment and leadership styles. It is proposed to establish strategies to improve organizational commitment and leadership in higher education institutions. It is suggested to develop future research on organizational commitment and leadership in public and private universities for other regions in the country.
+AB  - Resumen  El objetivo de la presente investigación es dimensionar el compromiso organizacional y desarrollar un modelo de gestión en torno a dicho concepto con el fin de estudiar su relación con los estilos de liderazgo y determinar estrategias de crecimiento y motivación en el personal docente y administrativo de una universidad pública en la ciudad de Chihuahua. Para ello, se empleó el modelo multidimensional del compromiso organizacional (afectivo, de continuidad y normativo) y la versión reducida del MLQ (Multifactor Leadership Questionnaire) para evaluar los estilos de liderazgo (transformacional, transaccional y laissez faire). A través de un estudio de diseño no experimental y con alcance descriptivo y correlacional, se administró un instrumento estructurado compuesto por 21 ítems para medir el compromiso organizacional y 25 ítems para medir el estilo de liderazgo. Posteriormente, se llevó a cabo un muestreo no probabilístico por conveniencia con 698 empleados (60.1 % docentes y 39.9 % administrativos). Los datos obtenidos se analizaron con el software SPSS, aplicando estadística descriptiva y la herramienta de correlación no paramétrica Rho Spearman. Los resultados indicaron un grado fuerte de compromiso organizacional en las dimensiones afectiva y normativa, aunque en un punto límite inferior. Además, se encontró que tanto el estilo de liderazgo transformacional como el transaccional tienen un nivel fuerte. Asimismo, se observó una estrecha relación positiva entre el compromiso organizacional y los estilos de liderazgo, por lo que se sugiere desarrollar estrategias para aumentar el compromiso organizacional y mejorar el liderazgo en instituciones de educación superior. Finalmente, se recomienda llevar a cabo futuras investigaciones sobre compromiso organizacional y liderazgo en universidades públicas y privadas en otras regiones del país.
+AB  - Resumo O objetivo desta pesquisa é medir o comprometimento organizacional e desenvolver um modelo de gestão em torno deste conceito para estudar sua relação com os estilos de liderança e determinar estratégias de crescimento e motivação no corpo docente e administrativo de uma universidade pública da cidade de Chihuahua. Para tanto, foram utilizados o modelo multidimensional de comprometimento organizacional (afetivo, de continuidade e normativo) e a versão reduzida do MLQ (Multifactor Leadership Questionnaire) para avaliar os estilos de liderança (transformacional, transacional e laissez faire). Por meio de um estudo de desenho não experimental com escopo descritivo e correlacional, foi administrado um instrumento estruturado composto por 21 itens para medir o comprometimento organizacional e 25 itens para medir o estilo de liderança. Posteriormente, foi realizada uma amostragem não probabilística por conveniência com 698 funcionários (60,1% docentes e 39,9% administrativos). Os dados obtidos foram analisados no software SPSS, aplicando-se estatística descritiva e ferramenta de correlação não paramétrica Rho Spearman. Os resultados indicaram um forte grau de comprometimento organizacional nas dimensões afetiva e normativa, embora num limite inferior. Além disso, constatou-se que tanto o estilo de liderança transformacional quanto o transacional apresentam um nível forte. Da mesma forma, observou-se uma estreita relação positiva entre o comprometimento organizacional e os estilos de liderança, razão pela qual se sugere o desenvolvimento de estratégias para aumentar o comprometimento organizacional e melhorar a liderança nas instituições de ensino superior. Por fim, recomenda-se a realização de pesquisas futuras sobre comprometimento organizacional e liderança em universidades públicas e privadas de outras regiões do país.
+UR  - http://www.scielo.org.mx/scielo.php?script=sci_arttext&pid=S2007-74672024000100666&lang=pt
+L1  - http://www.scielo.org.mx/pdf/ride/v14n28/2007-7467-ride-14-28-e666.pdf
+KW  - compromiso organizacional
+KW  - estilos de liderazgo
+KW  - educación superior
+KW  - docentes
+KW  - instituciones públicas
+KW  - comprometimento organizacional
+KW  - estilos de liderança
+KW  - ensino superior
+KW  - professores
+KW  - instituições públicas
+KW  - organizational commitment
+KW  - leadership styles
+KW  - higher education
+KW  - faculty
+KW  - public institutions
+ER  -
+
+TY  - JOUR
+AU  - Gonzáles Miranda, Jorge Antonio
+AU  - Collazos Roque, Edith Geovana
+AU  - Simangas Villalobos, Aram Roosell
+AU  - Álvarez Huari, María Ysabel
+TI  - El compromiso organizacional en docentes universitarios para el desempeño laboral en entornos virtuales
+TT  - Comprometimento organizacional em professores universitários para o desempenho no trabalho em ambientes virtuais
+TT  - Organizational commitment in university professors for job performance in virtual environments
+JO  - Mendive. Revista de Educación
+J2  - Mendive. Revista de Educación
+SN  - 1815-7696
+VL  - 22
+IS  - 1
+DB  - SciELO Cuba
+DP  - http://www.scielo.org/
+ID  - S1815-76962024000100018-cub
+LA  - es
+LA  - en
+SP  - 
+EP  - 
+DA  - 2024-03
+PY  - 2024
+AB  - ABSTRACT The study was developed in the virtual context considering the greater needs and demands in the work of university teachers, taking into account that the management of teaching staff, the culture of teamwork, as well as the factors associated with organizational commitment have an impact on work performance and educational quality. The research determined the differences regarding the levels of organizational commitment in virtual environments according to the work status of teachers at a private university in Lima, Peru. We worked under a quantitative approach, basic study type, descriptive non-experimental design, with a sample of full-time teachers, the instrument used was the Organizational Commitment Questionnaire, consisting of items with a Likert scale response with five response alternatives and three dimensions: affective, normative and continuity. The results showed that the majority of hired and regular teachers have a regular level of commitment to the organization, so it is concluded that the level of commitment can affect the achievement of goals, plans and institutional projects that are planned annually, as well as the teaching performance, these results will be used by researchers and authorities in decision making.
+AB  - RESUMEN El estudio se desarrolló en el contexto virtual, al considerar las mayores necesidades y exigencias en la labor del docente universitario, teniendo en cuenta que la gestión del personal docente, la cultura de trabajo en equipo, así como los factores asociados al compromiso organizacional impactan en el desempeño laboral y en la calidad educativa. La investigación determinó las diferencias respecto a los niveles de compromiso organizacional en entornos virtuales, en función de la condición laboral en docentes de una Universidad Privada en Lima, Perú. Se trabajó bajo el enfoque cuantitativo, tipo de estudio básico, diseño no experimental de carácter descriptivo, con una muestra conformada por docentes a tiempo completo y el instrumento utilizado fue el Cuestionario de Compromiso Organizacional, constituido por ítems con respuesta de escala de Likert con cinco alternativas de respuesta y tres dimensiones: afectivo, normativo y continuidad. Los resultados demostraron que la mayoría de los docentes contratados y ordinarios poseen un nivel regular de compromiso con la organización, por lo que se concluye que el nivel de compromiso puede afectar el logro de metas, planes y proyectos institucionales que se planifican anualmente, así como el desempeño docente. Estos resultados serán utilizados por investigadores y autoridades en la toma de decisiones.
+AB  - RESUMO O estudo foi desenvolvido no contexto virtual ao considerar as maiores necessidades e demandas no trabalho do professor universitário, levando em consideração que a gestão do corpo docente, a cultura do trabalho em equipe, bem como os fatores associados ao comprometimento organizacional impactam no desempenho do trabalho e na qualidade educacional. A pesquisa determinou as diferenças em relação aos níveis de comprometimento organizacional em ambientes virtuais com base na situação de trabalho dos professores de uma Universidade Privada em Lima, Peru. Trabalhamos sob a abordagem quantitativa, tipo de estudo básico, delineamento não experimental de natureza descritiva, com uma amostra composta por professores em tempo integral, o instrumento utilizado foi o Questionário de Comprometimento Organizacional, composto por itens com resposta em escala Likert com cinco alternativas de resposta e três dimensões: afetiva, normativa e continuidade. Os resultados mostraram que a maioria dos professores contratados e regulares tem um nível regular de comprometimento com a organização, portanto conclui-se que o nível de comprometimento pode afetar o alcance das metas, planos e projetos institucionais que são planejados anualmente, bem como para desempenho docente, esses resultados serão utilizados por pesquisadores e autoridades na tomada de decisões.
+UR  - http://scielo.sld.cu/scielo.php?script=sci_arttext&pid=S1815-76962024000100018&lang=pt
+KW  - compromiso organizacional
+KW  - afectivo
+KW  - normativo
+KW  - continuidad
+KW  - docente a tiempo completo
+KW  - organizational commitment
+KW  - affective
+KW  - normative
+KW  - continuity
+KW  - full-time teacher
+KW  - comprometimento organizacional
+KW  - afetivo
+KW  - normativo
+KW  - continuidade
+KW  - professor em tempo integral
+ER  -
+
+TY  - JOUR
+AU  - Galván-Vela, Esthela
+AU  - Ravina-Ripoll, Rafael
+AU  - Salazar-Altamirano, Mario Alberto
+AU  - Sorzano-Rodríguez, Deisy Milena
+TI  - El trinomio compromiso, satisfacción y justicia organizacional en el binomio felicidad e intención de rotar
+TT  - The trinomial commitment, satisfaction and organizational justice in the binomial happiness and turnover intention
+JO  - RETOS. Revista de Ciencias de la Administración y Economía
+J2  - RETOS. Revista de Ciencias de la Administración y Economía
+SN  - 1390-8618
+VL  - 14
+IS  - 28
+DO  - 10.17163/ret.n28.2024.01
+DB  - SciELO Ecuador
+DP  - http://www.scielo.org/
+ID  - S1390-86182024000200187-ecu
+LA  - es
+SP  - 187
+EP  - 202
+DA  - 2024-03
+PY  - 2024
+AB  - Abstract The aim of this study was to empirically analyze the relationships between the dimensions of organizational justice, job satisfaction, and organizational commitment with work happiness and turnover intention among academic workers in Mexico. To this end, a sample of 393 higher education faculty members in Mexico was surveyed. The statistical technique of structural equation modeling (CB-SEM) was used to analyze the data. The study’s results show that, on the one hand, the variables of job satisfaction, organizational commitment, and organizational justice are interrelated among these workers, and on the other hand, that these variables positively explain work happiness and negatively explain turnover intention. This information is relevant for university leaders to undertake a strategic direction oriented towards Happiness Management. This way, their human capital can perform their professional activities in an environment of positive emotions, creativity, joy, and subjective well-being.
+AB  - Resumen El objetivo de este estudio fue analizar empíricamente las relaciones entre las dimensiones justicia organizacional, satisfacción laboral y compromiso organizacional con la felicidad laboral y la intención de rotar en trabajadores del ámbito docente en México. Con este fin, se encuestó a una muestra de 393 profesores de educación superior en México. Para analizar los datos se utilizó la técnica estadística de ecuaciones estructurales por CB-SEM. Los resultados alcanzados de este estudio muestran, por un lado, que las variables satisfacción laboral, compromiso organizacional y justicia organizacional están relacionados entre sí en este tipo de trabajadores, y por el otro, que estas variables explican positivamente la felicidad laboral y negativamente la intención de rotar. Esta información es relevante para que los máximos responsables de las universidades emprendan una dirección estratégica orientada al happiness management. De este modo, su capital humano podrá desempeñar sus actividades profesionales en un entorno de emociones positivas, creatividad, alegría y bienestar subjetivo.
+UR  - http://scielo.senescyt.gob.ec/scielo.php?script=sci_arttext&pid=S1390-86182024000200187&lang=pt
+KW  - Job happiness, turnover intention, organisational justice, job satisfaction
+KW  - affective engagement
+KW  - felicidad laboral
+KW  - intención de rotar
+KW  - justicia organizacional
+KW  - satisfacción laboral
+KW  - compromiso afectivo
+ER  -
+
+TY  - JOUR
+AU  - Nazaruddin, Ietje
+AU  - Sofyani, Hafiez
+AU  - Utami, Tiyas Puji
+TI  - Promoting Performance Measurement System Effectiveness in Higher Education Institution: Antecedents and Consequences
+JO  - BAR - Brazilian Administration Review
+J2  - BAR - Brazilian Administration Review
+SN  - 1807-7692
+VL  - 21
+IS  - 2
+DO  - 10.1590/1807-7692bar2024230070
+DB  - SciELO Brasil
+DP  - http://www.scielo.org/
+ID  - S1807-76922024000200302-scl
+LA  - en
+SP  - 
+EP  - 
+DA  - 2024
+PY  - 2024
+AB  - ABSTRACT  Objective: Different discussions have been carried out on effectiveness of performance measurement systems (PMS) in higher education institutions (HEI). Some lecturers assert that PMSs place excessive emphasis on bureaucratic procedures, diverting attention from their primary responsibilities, without contributing to performance. Therefore, this study aimed to analyze the factors influencing effectiveness of PMS implementation and explore the impact of the concept on lecturers’ motivation to enhance performance.  Methods: We conducted a survey with 293 lecturers in Indonesia and employed structural equation modeling (SEM) to test the relationships included in the theoretical model.  Results: The result showed that PMSs for development purposes indirectly affected effectiveness through rating and feedback system satisfaction, as well as organizational commitment. Meanwhile, PMSs for strategic purposes have a direct and indirect effect through self-monitoring and feedback system.  Conclusions: The study implied the importance of considering the mediating role of rating and feedback system satisfactions, as well as organizational commitment, and self-monitoring, on the influence of PMSs for development and strategic goals. Furthermore, an effective PMS served to elevate lecturers’ motivation to excel in their performance.
+UR  - http://www.scielo.br/scielo.php?script=sci_arttext&pid=S1807-76922024000200302&lang=pt
+KW  - higher education institution
+KW  - lecturers
+KW  - performance management system
+ER  -
+
+TY  - JOUR
+AU  - Lacaz, Cristiane Pêssoa da Cunha
+AU  - Telles, Marta Maria
+AU  - Santos, Marina Miranda Lery
+TI  - REFLETINDO SOBRE O COTIDIANO ACADÊMICO: UMA EXPERIÊNCIA NO INSTITUTO TECNOLÓGICO DE AERONÁUTICA
+TT  - Reflexionando sobre el cotidiano académico: una experiencia en el Instituto Tecnológico de Aeronáutica
+TT  - REFLECTING ON ACADEMIC ROUTINE: AN EXPERIENCE AT THE INSTITUTO TECNOLÓGICO DE AERONÁUTICA
+JO  - Psicologia Escolar e Educacional
+J2  - Psicologia Escolar e Educacional
+SN  - 1413-8557
+VL  - 27
+IS  - 
+DO  - 10.1590/2175-35392023-244711
+DB  - SciELO Brasil
+DP  - http://www.scielo.org/
+ID  - S1413-85572023000100603-scl
+LA  - en
+LA  - pt
+SP  - 
+EP  - 
+DA  - 2023
+PY  - 2023
+AB  - ABSTRACT This report addresses the experience instituted at the Instituto Tecnológico de Aeronáutica called Reflita, whose proposal was to promote meetings to discuss topics relevant to graduation, in order to provide opportunities for collective reflection on academic norms and their application in everyday school life. As a starting point for the meetings, current legal documents and the experience of the participants were used. The strategy was implemented and endorsed by an opinion poll, which indicated the feasibility of continuing the proposal. Some developments were perceived, such as, for example, the proposition of the new counseling project and the implementation of a protocol for assisting students in crisis, adapted to the reality of ITA. It is therefore concluded that the strategy was valid, beyond the prescriptive and normative approach, pointing to the importance of a dialogue process with the academic community, intentionally bringing the legal aspects closer to the school routine.
+AB  - RESUMEN En el presente relato se aborda la experiencia instituida en el Instituto Tecnológico de Aeronáutica denominada Reflexionada, cuya propuesta fue la promoción de encuentros para discusión de temas pertinentes a la Graduación, con la finalidad de posibilitar la reflexión colectiva sobre las normas académicas y su aplicación en el cotidiano escolar. Se utilizó, como punto de partida para los encuentros, los documentos legales vigentes y la experiencia de los participantes. La estrategia fue implementada y refrendada por pesquisa de opinión, que indicó viabilidad de la continuidad de la propuesta. Algunos desdoblamientos fueron percibidos, como, por ejemplo, la proposición del proyecto nuevo asesoramiento y la implantación de un protocolo para atención al alumno en crisis, adaptado a la realidad del ITA. Se concluye así, que la estrategia fue válida, para más allá del abordaje prescriptiva y normativa, apuntando la importancia de un proceso de diálogo con la comunidad académica, intencionalmente acercando los aspectos legales del cotidiano escolar.
+AB  - RESUMO O presente relato aborda a experiência instituída no Instituto Tecnológico de Aeronáutica denominada Reflita, cuja proposta foi a promoção de encontros para a discussão de temas pertinentes à Graduação, a fim de oportunizar a reflexão coletiva sobre as normas acadêmicas e sua aplicação no cotidiano escolar. Utilizou-se, como ponto de partida para os encontros, os documentos legais vigentes e a experiência dos participantes. A estratégia foi implementada e referendada por pesquisa de opinião, que indicou a viabilidade da continuidade da proposta. Alguns desdobramentos foram percebidos, como por exemplo, a proposição do projeto novo aconselhamento e a implantação de um protocolo para atendimento ao aluno em crise, adaptado à realidade do ITA. Conclui-se assim, que a estratégia foi válida, para além da abordagem prescritiva e normativa, apontando a importância de um processo de diálogo com a comunidade acadêmica, intencionalmente aproximando os aspectos legais do cotidiano escolar.
+UR  - http://www.scielo.br/scielo.php?script=sci_arttext&pid=S1413-85572023000100603&lang=pt
+KW  - higher education
+KW  - teaching work
+KW  - organizational commitment
+KW  - educação superior
+KW  - trabalho docente
+KW  - comprometimento organizacional
+KW  - educación universitaria
+KW  - labor docente
+KW  - comprometimiento organizacional
+ER  -
+
+TY  - JOUR
+AU  - Orozco-Solis, Mercedes Gabriela
+AU  - Bravo-Andrade, Héctor Rubén
+AU  - Ruvalcaba-Romero, Norma Alicia
+AU  - Ángel-González, Mario
+AU  - Vázquez-Juárez, Claudia Liliana
+AU  - Vázquez-Colunga, Julio César
+TI  - Socialización organizacional y salud mental positiva ocupacional como predictores del compromiso organizacional en docentes de educación superior
+TT  - Organizational socialization and positive occupational mental health as predictors of organizational commitment in higher education teachers
+JO  - Acta Colombiana de Psicología
+J2  - Acta Colombiana de Psicología
+SN  - 0123-9155
+VL  - 25
+IS  - 1
+DO  - 10.14718/acp.2022.25.1.4
+DB  - SciELO Colômbia
+DP  - http://www.scielo.org/
+ID  - S0123-91552022000100042-col
+LA  - es
+SP  - 42
+EP  - 55
+DA  - 2022-06
+PY  - 2022
+AB  - Abstract This study aimed to determine the predictive character of organizational socialization and occupational positive mental health on organizational commitment in higher education teachers. A sample of 279 teachers from higher education institutions who signed an informed consent form was used. Fifty-four point five percent of the participants were women, with a mean age of 44.05 years (SD = 10.26). The participants completed the Organizational Socialization Inventory (ISO), the Positive Occupational Mental Health Questionnaire (SMPO) and the Organizational Commitment Scale (OC), and for data analysis descriptive statistics, correlation analysis and multiple linear regression with stepwise method were applied, entering each dimension of organizational commitment separately as a dependent variable. As a result, moderate to weak correlations were identified between the study variables, and it was found that the final models indicate that the future perspectives and socio-affective dimensions predict affective commitment by 38%; that future perspectives, spirituality and age predict normative commitment by 22.8%; and that the future perspectives dimension predicts commitment of continuity by 9.2%. It is concluded that teachers' expectations about their development in the institution, as well as their interactions at the socio-affective and spiritual level with the work context, are factors that partially influence their attachment to the educational organization.
+AB  - Resumen El objetivo de este trabajo fue determinar el carácter predictivo de la socialización organizacional y la salud mental positiva ocupacional sobre el compromiso organizacional en docentes de educación superior. Se contó con una muestra de 279 docentes de instituciones de educación superior que firmaron un consentimiento informado. El 54.5 % de los participantes eran mujeres, con una media de edad de 44.05 años (DE = 10.26). Los participantes respondieron el Inventario de Socialización Organizacional (ISO), el Cuestionario de Salud Mental Positiva Ocupacional (SMPO) y la Escala de Compromiso Organizacional (CO), y para el análisis de datos se aplicaron estadísticos descriptivos, un análisis de correlación y una regresión lineal múltiple con método de pasos sucesivos, ingresando por separado cada dimensión del compromiso organizacional como variable dependiente. Como resultado, se identificaron correlaciones de moderadas a débiles entre las variables de estudio, y se encontró que los modelos finales indican que las dimensiones de perspectivas de futuro y socioafectiva predicen en un 38 % el compromiso afectivo; que las perspectivas de futuro, la espiritualidad y la edad predicen en un 22.8 % el compromiso normativo; y que la dimensión perspectivas de futuro predice en un 9.2 % el compromiso de continuidad. Concluimos que las expectativas del docente sobre su desarrollo en la institución, así como sus interacciones a nivel socioafectivo y espiritual con el contexto laboral, son factores que influyen parcialmente en su vinculación con la organización educativa.
+UR  - http://www.scielo.org.co/scielo.php?script=sci_arttext&pid=S0123-91552022000100042&lang=pt
+L1  - http://www.scielo.org.co/pdf/acp/v25n1/0123-9155-acp-25-01-42.pdf
+KW  - socialización organizacional
+KW  - salud mental positiva
+KW  - compromiso organizacional
+KW  - docentes universitarios
+KW  - educación superior
+KW  - organizational socialization
+KW  - positive mental health
+KW  - organizational commitment
+KW  - university teachers
+KW  - higher education
+ER  -
+
+TY  - JOUR
+AU  - CORDEIRO, JOÃO PEDRO
+AU  - CUNHA, PEDRO
+AU  - LOURENÇO, ABÍLIO AFONSO
+TI  - ESTILOS DE GESTÃO DE CONFLITOS, COMPROMETIMENTO E CIDADANIA ORGANIZACIONAL: ESTUDO EMPÍRICO NUMA INSTITUIÇÃO DE ENSINO SUPERIOR PORTUGUESA
+TT  - CONFLICTS MANAGEMENT STYLES, COMMITMENT AND ORGANIZATIONAL CITIZENSHIP: AN EMPIRICAL STUDY IN A PORTUGUESE HIGHER EDUCATION INSTITUTION
+TT  - ESTILOS DE GESTIÓN DE CONFLICTOS, COMPROMISO Y CIUDADANÍA ORGANIZACIONAL: ESTUDIO EMPÍRICO EN UNA INSTITUCIÓN PORTUGUESA DE EDUCACIÓN SUPERIOR
+JO  - Arquivos Brasileiros de Psicologia
+J2  - Arq. bras. psicol.
+SN  - 1809-5267
+VL  - 74
+IS  - 
+DO  - 10.36482/1809-5267.arbp-2022v74.20139
+DB  - SciELO Psi
+DP  - http://www.scielo.org/
+ID  - S1809-52672022000100314-psi
+LA  - pt
+SP  - 
+EP  - 
+DA  - 2022
+PY  - 2022
+AB  - ABSTRACT The aim of this research is to analyze the relationship between conflict management, commitment, and organizational citizenship in an educational context. A case study was carried out by applying a survey to non-teaching professionals from a higher education institution (HEI). The data were analyzed using the structural equation modeling technique. The results indicate that the use of different conflict management styles gives rise to different types of organizational commitment, which respond different organizational citizenship behaviors. This study contributes to the formulation of conflict management, commitment, and organizational citizenship strategies by those responsible for these educational institutions, based on a relational and reflective approach, supporting the design of management systems and practices sustained by organizational behavioral.
+AB  - RESUMEN El objetivo de esta investigación es analizar la relación entre la gestión de conflictos, el compromiso y la ciudadanía organizacional en un contexto educativo. Se realizó un estudio de caso recurriendo a la aplicación de una encuesta a los profesionales no docentes de una institución de educación superior (IES). Los datos se analizaron a través del modelo de ecuaciones estructurales. Los resultados indican que la preconización de diferentes estilos de gestión de conflictos origina diferentes tipos de compromiso organizacional, los cuales dan como respuesta diferentes comportamientos de ciudadanía organizacional. Este estudio contribuye a la formulación de estrategias de gestión de conflictos, de compromiso y de ciudadanía organizacional por parte de los gestores de estas instituciones, basadas en un abordaje relacional y reflexivo, apoyando la concepción de sistemas y de prácticas de gestión sostenidas en el comportamiento organizacional.
+AB  - RESUMO O objetivo desta pesquisa é analisar a relação entre gestão de conflitos, comprometimento e cidadania organizacional em contexto educativo. Realizou-se um estudo de caso recorrendo à aplicação de um inquérito aos profissionais não docentes de uma instituição de ensino superior (IES). Os dados foram analisados através da técnica de modelação de equações estruturais. Os resultados indicam que a utilização de diferentes estilos de gestão de conflitos origina diferentes tipos de comprometimento organizacional, os quais dão como resposta diferentes comportamentos de cidadania organizacional. Contribui para a formulação de estratégias de gestão de conflitos, de comprometimento e de cidadania organizacional por parte dos responsáveis destas instituições educativas, assentes numa abordagem relacional e reflexiva, apoiando a concepção de sistemas e de práticas de gestão sustentados no comportamento organizacional.
+UR  - /scielo.php?script=sci_arttext&pid=S1809-52672022000100314&lang=pt
+KW  - Estilos de gestión de conflictos
+KW  - Compromiso organizacional
+KW  - Ciudadanía organizacional
+KW  - Educación superior
+KW  - Modelo de ecuaciones estructurales
+KW  - Estilos de gestão de conflitos
+KW  - Comprometimento organizacional
+KW  - Cidadania organizacional
+KW  - Ensino superior
+KW  - Modelação de equações estruturais
+KW  - Conflicts management styles
+KW  - Organizational commitment
+KW  - Organizational citizenship
+KW  - Higher education
+KW  - Structural equation modeling
+ER  -
+
+TY  - JOUR
+AU  - Pedroza San Miguel, Rosa Diana
+AU  - Cervera Cajo, Luz Emerita
+AU  - Sánchez Sandoval, Sara Pamela
+AU  - Quiñones Li, Aura Elisa
+TI  - Cultura organizacional a través de la gerencia educativa de una universidad privada en Perú
+TT  - Organizational culture through the educational management of a private university in Peru
+TT  - Cultura organizacional através da gestão educacional em uma universidade privada no Peru
+JO  - Horizontes Revista de Investigación en Ciencias de la Educación
+J2  - Horizontes Rev. Inv. Cs. Edu.
+SN  - 2616-7964
+VL  - 5
+IS  - 20
+DO  - 10.33996/revistahorizontes.v5i20.274
+DB  - SciELO Bolívia
+DP  - http://www.scielo.org/
+ID  - S2616-79642021000400301-bol
+LA  - es
+SP  - 301
+EP  - 309
+DA  - 2021-09
+PY  - 2021
+AB  - Abstract Organizational culture values the principles that shape the personality of an organization through its processes and attitudes. The objective was to determine how organizational culture influences organizational commitment and job satisfaction in employees of a private university. The methodology used was a quantitative, correlational, non-experimental design and cross-sectional approach, the sample consisted of 132 teachers. The results obtained show that the collaborators present a high level organizational culture at a general level and by dimensions; with respect to organizational commitment it was of medium level, while job satisfaction is medium with 82.75%. In relation to the influence of organizational culture on organizational commitment and job satisfaction, a positive and significant influence was observed between organizational culture and job satisfaction, but not between organizational culture and organizational commitment.
+AB  - Resumen La cultura organizacional valora los principios que conforman la personalidad de una organización mediante sus procesos y actitudes. El objetivo planteado fue determinar como la cultura organizacional influye en el compromiso organizacional y la satisfacción laboral en colaboradores de una Universidad Privada. La metodología empleada fue un enfoque cuantitativo, correlacional, de diseño no experimental y de corte transversal, la muestra estuvo conformada por 132 docentes. Los resultados obtenidos demuestran que los colaboradores presentan una cultura organizacional de nivel alto a nivel general y por dimensiones; respecto al compromiso organizacional fue de nivel medio, mientras que, la satisfacción laboral es media con un 82,75%. En relación con la influencia de la cultura organizacional en el compromiso organizacional y la satisfacción laboral, se observa una influencia positiva y significativa entre la cultura organizacional y la satisfacción laboral, pero no entre la cultura organizacional y el compromiso organizacional.
+AB  - Resumo A cultura organizacional valoriza os princípios que moldam a personalidade de uma organização através de seus processos e atitudes. O objetivo era determinar como a cultura organizacional influencia o compromisso organizacional e a satisfação no trabalho dos funcionários de uma universidade privada. A metodologia utilizada foi uma concepção quantitativa, correlacional, não experimental, transversal, e a amostra consistiu de 132 professores. Os resultados obtidos mostram que os funcionários têm um alto nível de cultura organizacional em nível geral e por dimensões; com relação ao compromisso organizacional foi médio, enquanto a satisfação no trabalho é média, com 82,75%. Em relação à influência da cultura organizacional no compromisso organizacional e na satisfação no trabalho, observou-se uma influência positiva e significativa entre cultura organizacional e satisfação no trabalho, mas não entre cultura organizacional e compromisso organizacional.
+UR  - http://www.scielo.org.bo/scielo.php?script=sci_arttext&pid=S2616-79642021000400301&lang=pt
+KW  - Cultura organizacional
+KW  - Produtividade no trabalho
+KW  - Satisfação no trabalho
+KW  - Habilidades profissionais
+KW  - Satisfação no trabalho
+KW  - Organizational culture
+KW  - Job productivity
+KW  - Job satisfaction
+KW  - Professional skills
+KW  - Cultura organizacional
+KW  - Productividad laboral
+KW  - Satisfacción laboral
+KW  - Habilidades profesionales
+ER  -
+
+TY  - JOUR
+AU  - Hurtado Palomino, Américo
+AU  - Dante De la Gala Velásquez, Bernardo Ramon
+AU  - Ccorisapra Quintana, Flor de Meliza
+AU  - Quispe Ambrocio, Abelardo David
+TI  - Cultura y compromiso organizacional: efectos indirectos de la experiencia de marca empleadora
+TT  - Organizational culture and commitment: indirect effects of the employer brand experience
+JO  - Revista Universidad y Sociedad
+J2  - Revista Universidad y Sociedad
+SN  - 2218-3620
+VL  - 13
+IS  - 4
+DB  - SciELO Cuba
+DP  - http://www.scielo.org/
+ID  - S2218-36202021000400369-cub
+LA  - es
+SP  - 369
+EP  - 377
+DA  - 2021-08
+PY  - 2021
+AB  - ABSTRACT The dynamic environment of universities forces them to develop differentiating strategies to attract and retain the best teachers. The study analyses the indirect effects of employer brand experience as a driving factor in the influence of culture on organisational commitment. The methodology of the study, following the route of the quantitative approach, was carried out on a sample of 369 university teachers in the Arequipa region of Peru, testing the hypotheses using partial least squares through structural equations. The results show that there are positive and significant direct relationships between employer brand experience, culture and organisational commitment. In turn, employer brand experience significantly moderates the relationship between culture and organisational commitment. Organisational culture alone does not have as much impact on organisational commitment. However, the moderate mediation of the employer brand experience enhances this relationship. Therefore, in order to strengthen organisational culture and organisational commitment, employer brand management should be included as a priority as an energising factor.
+AB  - RESUMEN El dinamismo del entorno de las universidades las obliga a desarrollar estrategias diferenciadoras para captar y retener a los mejores docentes. El estudio analiza los efectos indirectos de la experiencia de marca empleadora como un factor impulsor en la influencia de la cultura sobre el compromiso organizacional. La metodología del estudio, sigue la ruta del enfoque cuantitativo, se realizó en una muestra de 369 docentes universitarios de la región Arequipa - Perú, contrastando las hipótesis utilizando mínimos cuadrados parciales mediante ecuaciones estructurales. Los resultados muestran que existen relaciones directas positivas y significativas entre la experiencia de marca empleadora, cultura y compromiso organizacional. Asu vez, la experiencia de marca empleadora media y modera significativamente la relación entre cultura y compromiso organizacional. La cultura organizacional por sí sola no tiene tanta repercusión en compromiso organizacional. Sin embargo, la mediación - moderada de la experiencia de marca empleadora mejora esta relación. Por lo tanto, para fortalecer la cultura y el compromiso organizacional, deben incluirse prioritariamente la gestión de la marca empleadora como un factor dinamizador.
+UR  - http://scielo.sld.cu/scielo.php?script=sci_arttext&pid=S2218-36202021000400369&lang=pt
+KW  - Cultura organizacional
+KW  - experiencia marca empleadora
+KW  - compromiso organizacional
+KW  - Organizational culture
+KW  - employer brand experience
+KW  - organizational commitment
+ER  -
+
+TY  - JOUR
+AU  - May Guillermo, Erika Guadalupe
+AU  - Barroso Tanoira, Francisco Gerardo
+AU  - Hernández Triano, Leonardo
+TI  - Validación de un instrumento para medir estados afectivos y compromiso organizacional en profesores universitarios
+TT  - Validation of an instrument to measure affective states and organizational commitment in university professors
+JO  - Nova scientia
+J2  - Nova scientia
+SN  - 2007-0705
+VL  - 12
+IS  - 24
+DO  - 10.21640/ns.v12i24.2248
+DB  - SciELO México
+DP  - http://www.scielo.org/
+ID  - S2007-07052020000100022-mex
+LA  - es
+SP  - 
+EP  - 
+DA  - 2020
+PY  - 2020
+AB  - Abstract  Introduction:  The objective of the study was to validate an instrument composed of the positive and negative affect scale (PANAS) developed by Watson, Clark and Tellegen (1988), and the organizational commitment scale (OCS) developed by Meyer, Allen, and Smith (1993) to measure the relationship between affective states (EA) and organizational commitment (CO) of professors attached to higher education institutions (IES) in the Southeast of Mexico.  Method:  A descriptive investigation was carried out with a quantitative approach and a nonexperimental cross-sectional design, in which a non-probabilistic sample of 140 professors assigned to IES located in the southeast of Mexico, was selected. The instrument reliability was verified through Cronbach's alpha coefficient, content validation was through face validity and construct validation was carried out through an exploratory factor analysis (AFE).  Results:  The judges who participated in the face validity verification considered that the instrument meets sufficiency, clarity, coherence and relevance criteria. Reliability obtained for the PANAS scale was 0.76 and for the OCS was 0.83. In the AFE, it was identified that EA were grouped into two factors that explained 43% of the variance, while for CO three factors were identified, which explained 49% of the variance.  Conclusion:  Internal consistency and content and construct validity were confirmed for the proposed instrument to measure the relationship between EA and CO in higher education.
+AB  - Resumen  Introducción:  El objetivo del estudio fue validar un instrumento integrado por la escala de afecto positivo y afecto negativo (PANAS) elaborada por Watson, Clark y Tellegen (1988), así como la escala de compromiso organizacional (OCS) desarrollada por Meyer, Allen, y Smith (1993), para medir la relación entre los estados afectivos (EA) y el compromiso organizacional (CO) de profesores adscritos a instituciones de educación superior (IES) en el sureste de México.  Método:  Se realizó una investigación descriptiva con enfoque cuantitativo y diseño no experimental transversal, en la cual se seleccionó una muestra no probabilística de 140 profesores adscritos a una IES ubicada en el sureste de México. La fiabilidad del instrumento se verificó mediante el coeficiente alfa de Cronbach, la validación de contenido fue por juicio de expertos y la de constructo se realizó por medio de un análisis factorial exploratorio (AFE).  Resultados:  Los jueces que participaron en la verificación en el juicio de expertos consideraron que el instrumento cumple con los criterios de suficiencia, claridad, coherencia y relevancia. La fiabilidad obtenida para la escala PANAS fue de 0.76 y para la OCS de 0.83. En el AFE se identificó que los EA se agruparon en dos factores que explicaron el 43% de la varianza, mientras que para el CO se identificaron tres factores, los cuales explicaron el 49% de la varianza.  Conclusión:  Se confirmaron la consistencia interna y la validez del instrumento, tanto de contenido como de constructo, para medir la relación entre los EA y el CO en educación superior.
+UR  - http://www.scielo.org.mx/scielo.php?script=sci_arttext&pid=S2007-07052020000100022&lang=pt
+L1  - http://www.scielo.org.mx/pdf/ns/v12n24/2007-0705-ns-12-24-00022.pdf
+KW  - afecto
+KW  - compromiso organizacional
+KW  - profesores
+KW  - educación superior
+KW  - análisis factorial exploratorio
+KW  - instrumentos
+KW  - affect
+KW  - organizational commitment
+KW  - professors
+KW  - higher education
+KW  - exploratory factor analysis
+KW  - instruments
+ER  -
+
+TY  - JOUR
+AU  - Duche Pérez, Aleixandre Brian
+AU  - Gutiérrez Aguilar, Olger Albino
+AU  - Paredes Quispe, Fanny Miyahira
+TI  - Satisfacción laboral y compromiso institucional en docentes universitarios peruanos
+TT  - Job satisfaction and organizational commitment of university teachers in Peruvian Universities
+JO  - Conrado
+J2  - Conrado
+SN  - 1990-8644
+VL  - 15
+IS  - 70
+DB  - SciELO Cuba
+DP  - http://www.scielo.org/
+ID  - S1990-86442019000500015-cub
+LA  - es
+SP  - 15
+EP  - 24
+DA  - 2019-10
+PY  - 2019
+AB  - ABSTRACT The study of working conditions in educational institutions has acquired recent importance and a high priority as part of the processes of accreditation of educational quality where management and organizational psychology play a mediating role between the work environment and institutional development. The main objective of this study is to identify the degree of job satisfaction and institutional commitment in under gradúate university teachers and to determine if there is a correlation between both variables. The researchis characterized as quantitative, descriptive-correlational, non-experimental and transversal; The Multidimensional Teacher Satisfaction Scale (EMSLD) and an Instrument to characterize the Organizational Environment (CO) were used to collect the information. The reliability of the instruments was analyzed with the statistica lprogram SPSS (version 21.0) and a reliability index for job satisfaction of 0.89 was obtained using the Cronbach'sAlphacoefficient, and for the institutional commitment of 0.91. 180 auxiliary teachers hired part-time from 3 universities (two private and one public) from the city of Arequipa participated in the study. Among the results, it is high lighted that, according to the type of legal form and institutional management, job satisfaction and institutional commitment have a positive ornegative correlation.
+AB  - RESUMEN El estudio de las condiciones laborales en instituciones educativas ha adquirido reciente importancia y una alta prioridad como parte de los procesos de acreditación de la calidad educativa donde la gestión y la psicología organizacionales juegan un papel mediador entre el entorno laboral y el desarrollo institucional. El presente estudio tiene como objetivo central identificar el grado de satisfacción laboral y compromiso institucional en docentes universitarios de pregrado y determinar si existe correlación entre ambas variables. La investigación se caracteriza como cuantitativa, descriptiva-correlacional, no experimental y transversal; para la recolección de la información se utilizó la Escala Multidimensional de Satisfacción Laboral Docente (EMSLD) y un Instrumento para caracterizar el Clima Organizacional (CO). La confiabilidad de los instrumentos se analizó con el programa estadístico SPSS (versión 21.0) y se obtuvieron mediante el coeficiente de Alfa de Cronbach un índice de confiabilidad para la satisfacción laboral de 0.89, y para el compromiso institucional de 0.91. Participaron en el estudio 180 docentes auxiliares contratados a tiempo parcial de 3 universidades (dos privadas y una pública) de la ciudad de Arequipa. Entre los resultados se destaca que, de acuerdo al tipo de forma jurídica y de gestión institucional, la satisfacción laboral y el compromiso institucional tienen una correlación positiva o negativa.
+UR  - http://scielo.sld.cu/scielo.php?script=sci_arttext&pid=S1990-86442019000500015&lang=pt
+KW  - Job satisfaction
+KW  - institutional commitment
+KW  - organizational environment
+KW  - Satisfacción laboral
+KW  - compromiso institucional
+KW  - clima organizacional
+ER  -
+
+TY  - JOUR
+AU  - Oliveira, Lucia B.
+AU  - Costa, Elson Mário Toja Couto Monteiro da
+TI  - Comparing attitudes of public servants and outsourced employees
+JO  - RAUSP Management Journal
+J2  - RAUSP Management Journal
+SN  - 2531-0488
+VL  - 54
+IS  - 1
+DO  - 10.1108/rausp-07-2018-0049
+DB  - SciELO Brasil
+DP  - http://www.scielo.org/
+ID  - S2531-04882019000100038-scl
+LA  - en
+SP  - 38
+EP  - 53
+DA  - 2019-03
+PY  - 2019
+AB  -  Purpose The purpose of this study was to compare and analyze the job satisfaction, organizational commitment and turnover intention of professors, technical-administrative servants and outsourced workers of the Federal University of the State of Rio de Janeiro (UNIRIO).  Design/methodology/approach The authors conducted analyses of variance, with the multiple comparisons made using Tukey’s post hoc tests, as well as regression analyses. The sample of 297 workers included 115 faculty members, 86 technical-administrative servants and 96 outsourced employees.  Findings The results showed that the job satisfaction of outsourced workers was significantly higher than that of the public servants. On the other hand, professors presented the highest level of affective commitment, significantly higher than technical-administrative employees and outsourced workers. Turnover intention of outsourced workers was lower than that of technical-administrative employees, despite the stability of the latter group.  Practical implications From a practical standpoint, the results may guide the development human resource management policies and practices aligned with the reality and the needs of public servants and outsourced employees, thus fostering their job satisfaction, commitment and retention.  Originality/value This study is relevant given the increased use of outsourced labor in the public administration and the relative paucity of empirical studies with this group of workers, as evidenced by the review of the national literature. Moreover, as the theme of outsourcing is quite controversial, the authors hope this new evidence contributes to the debate.
+UR  - http://www.scielo.br/scielo.php?script=sci_arttext&pid=S2531-04882019000100038&lang=pt
+KW  - Job satisfaction
+KW  - Organizational commitment
+KW  - Outsourcing
+KW  - Turnover intention
+KW  - Public management
+ER  -
+
+TY  - JOUR
+AU  - Prieto Quintana, César Omar
+AU  - Sánchez Baltasar, Laura Berenice
+AU  - Mayett Moreno, Yésica
+TI  - Compromiso organizacional en preparatorias públicas y privadas del estado de Chihuahua, México
+TT  - Organizational commitment in public and private high schools in Chihuahua, Mexico
+TT  - Compromisso organizacional em escolas secundárias públicas e privadas no estado de Chihuahua, México
+JO  - RIDE. Revista Iberoamericana para la Investigación y el Desarrollo Educativo
+J2  - RIDE. Revista Iberoamericana para la Investigación y el Desarrollo Educativo
+SN  - 2007-7467
+VL  - 9
+IS  - 17
+DO  - 10.23913/ride.v9i17.403
+DB  - SciELO México
+DP  - http://www.scielo.org/
+ID  - S2007-74672018000200713-mex
+LA  - es
+SP  - 713
+EP  - 740
+DA  - 2018-12
+PY  - 2018
+AB  - Abstract The aim of this research was to develop a model to manage the organizational commitment in public and private high school teachers´ of the Higher Education Department of the Government State in Chihuahua. The model was based on the results of a non-experimental, descriptive, correlational and cross-sectional study. We administered 618 surveys in 174 public and private High Schools (29.1% administrative employees and 70.9% teachers). Data were analyzed with the SPSS® software using descriptive statistics, the “t of student” test, ANOVA and Pearson correlations. The main results revealed the existence of a strong organizational commitment of teachers and administrative employees to their schools, mainly in the affective dimension. We identified that the sociodemographic variables that influence the commitment degree of workers, such as age, if they have children, seniority in the education sector, academic education and educational level, increases the affective and calculated commitment (material attachment) of the employees such as economic bonuses, stimulus for punctuality and assistance, retirement and other legal benefits, that would increase in their incomes.
+AB  - Resumen La presente investigación planteó como objetivo desarrollar un modelo para gestionar el compromiso organizacional en preparatorias públicas y privadas del Departamento de Educación Media Superior del Estado de Chihuahua. Para ello, se tomó como base el enfoque multidimensional del compromiso organizacional (Meyer y Allen, 1991), pues este permite estudiarlo desde la dimensión afectiva, normativa y calculada. A través de un estudio transversal, correlacional y no experimental, se administró una encuesta por conveniencia a 618 empleados de 174 preparatorias públicas y privadas (29.1 % administrativos y 70.9 % docentes). Los datos se analizaron con el paquete SPSS, utilizando estadística descriptiva, prueba t de Student, ANOVA y correlaciones de Pearson. Los resultados demostraron un fuerte compromiso organizacional en las dimensiones afectiva y normativa en las preparatorias públicas y privadas. Asimismo, se evidenció que las variables sociodemográficas (edad, hijos, antigüedad en el sector educativo, formación académica y nivel educativo) influyen directamente en su grado de compromiso. Se sugiere, por tanto, diseñar estrategias para incrementar el compromiso calculado (apego material) de los empleados, tales como bonos económicos, premios por puntualidad y asistencia, sistemas de jubilación adicionales a los establecidos por la ley y otros que impacten positivamente en sus finanzas.
+AB  - Resumo Esta pesquisa tem como objetivo desenvolver um modelo proposto para o gerenciamento de comprometimento organizacional em escolas públicas e privadas Superior Secundário Departamento do Estado de Chihuahua Educação. Para este fim, foi baseada na abordagem multidimensional para comprometimento organizacional (Meyer Allen, 1991), pois isso permite estudo do afetivo e regulamentos dimensão calculados. Através de um cross-correlacional nenhum estudo experimental, uma pesquisa por conveniência 618 174 funcionários públicos e privados elevada (29,1% e 70,9% professores administrativas) foi administrada. Os dados foram analisados com o pacote SPSS, utilizando-se estatística descritiva, teste t de Student, ANOVA e correlações de Pearson. Os resultados demonstraram um forte comprometimento organizacional nas dimensões afetiva e normativa das escolas públicas e privadas de ensino médio. Ele também tornou-se evidente que as variáveis sociodemográficas (idade, as crianças idade na educação, formação e formação acadêmica) influenciam directamente o seu compromisso. Sugere-se, portanto, desenvolver estratégias para aumentar o compromisso calculado (apego material) dos empregados, como bônus financeiros, prêmios de pontualidade e assiduidade, além daquelas estabelecidas pelos regimes de pensões de direito e outros que têm um impacto positivo em suas finanças .
+UR  - http://www.scielo.org.mx/scielo.php?script=sci_arttext&pid=S2007-74672018000200713&lang=pt
+L1  - http://www.scielo.org.mx/pdf/ride/v9n17/2007-7467-ride-9-17-713.pdf
+KW  - educación media superior
+KW  - docentes
+KW  - modelo de Meyer y Allen
+KW  - personal administrativo
+KW  - ensino médio
+KW  - professores
+KW  - modelo de Meyer e Allen
+KW  - equipe administrativa
+KW  - education
+KW  - teachers
+KW  - Meyer and Allen model
+KW  - office staff
+ER  -
+
+TY  - JOUR
+AU  - Cheasakul, Uree
+AU  - Varma, Parvathy
+TI  - The influence of passion and empowerment on organizational citizenship behavior of teachers mediated by organizational commitment
+TT  - Influencia de la pasión y el empoderamiento en la conducta cívica organizacional de los maestros mediados por el compromiso organizacional
+JO  - Contaduría y administración
+J2  - Contaduría y administración
+SN  - 0186-1042
+VL  - 61
+IS  - 3
+DO  - 10.1016/j.cya.2016.04.003
+DB  - SciELO México
+DP  - http://www.scielo.org/
+ID  - S0186-10422016000300422-mex
+LA  - en
+SP  - 422
+EP  - 440
+DA  - 2016-09
+PY  - 2016
+AB  - Abstract: The present research aims to study the direct and indirect influence of passion and empowerment on organizational citizenship behavior of teachers in a private university in Thailand mediated by organizational commitment. The sample comprises 124 teachers teaching in the university and the Organizational Citizenship Behavior Scale, adapted by Podsakoff and Mackenzie (1990), Passion Scale, developed by Vallerand, Carbonneau, Fernet and Guay (2008), School Participant Empowerment Scale (SPES) developed by Short and Rinehart (1992) and Organizational Commitment Scale which was modified from the original scale of Meyer and Allen (1991) by Meyer, Allen, and Smith (1993) were employed. The path model with the dependent variable organizational citizenship behavior and the independent variables passion, and empowerment and the mediating variable organizational commitment was tested using regression analysis. There are relationships between passion for teaching, teacher empowerment, and organizational commitment on the organizational citizenship behavior of teachers. The teachers have high level of organizational citizenship behavior, suggesting that they exhibit behaviors of discretionary nature that are not part of their formal role requirements, but which promote the effective functioning of the university.
+AB  - Resumen: La presente investigación se propone estudiar la influencia directa e indirecta de la pasión y el empoderamiento en el comportamiento de ciudadanía organizativa de los maestros en una universidad privada de Tailandia mediados por el compromiso organizacional. La muestra comprende a 124 maestros que enseñan en la universidad y se emplearon la Escala de Comportamiento de Ciudadanía Organizativa (Organizational Citizenship Behavior Scale) adaptada por Podsakoff y Mackenzie (1990), la Escala de Pasión (o entusiasmo) (Passion Scale) desarrollada por Vallerand, Carbonneau, Fernet y Guay (2008), la Escala de Empoderamiento de Participantes Escolares (School Participant Empowerment Scale-SPES) desarrollada por Short y Rinehart (1992) y la Escala de Compromiso Organizacional (Organizational Commitment Scale) que fue modificada de la escala original de Allen y Meyer (1991) por Meyer, Allen y Smith (1993). El modelo de trayectoria con la variable dependiente de comportamiento de ciudadanía organizativa y las variables independientes de pasión (entusiasmo) y empoderamiento y la variable de mediación de compromiso organizacional se puso a prueba con el uso del análisis de regresión. Hay relaciones entre la pasión por la enseñanza, empoderamiento del maestro y compromiso organizacional en el comportamiento de ciudadanía organizativa de los maestros. Los maestros tienen un alto nivel de comportamiento de ciudadanía organizativa, sugiriendo que muestran conductas de naturaleza discrecional que no son parte de los requisitos formales de su función, pero que promueven el funcionamiento efectivo de la universidad.
+UR  - http://www.scielo.org.mx/scielo.php?script=sci_arttext&pid=S0186-10422016000300422&lang=pt
+L1  - http://www.scielo.org.mx/pdf/cya/v61n3/0186-1042-cya-61-03-00422.pdf
+KW  - Comportamiento de ciudadanía organizativa
+KW  - Empoderamiento del Maestro
+KW  - Pasión por la Enseñanza
+KW  - Compromiso Organizacional
+KW  - Organizational citizenship behavior
+KW  - Teacher empowerment
+KW  - Passion for teaching
+KW  - Organizational commitment
+ER  -
+
+TY  - JOUR
+AU  - Curbelo Hernández, Mario Alberto
+AU  - Pérez González, Yaniel Evelio
+AU  - Montero Ramos, Elpidio
+TI  - Modelo matemático para explicar la intención de permanencia del personal académico de la Universidad de Cienfuegos
+TT  - Mathematical model to explain the intent of permanence of the academic staff of the university of Cienfuegos
+JO  - Revista Universidad y Sociedad
+J2  - Revista Universidad y Sociedad
+SN  - 2218-3620
+VL  - 8
+IS  - 2
+DB  - SciELO Cuba
+DP  - http://www.scielo.org/
+ID  - S2218-36202016000200002-cub
+LA  - es
+SP  - 07
+EP  - 19
+DA  - 2016-08
+PY  - 2016
+AB  - The mobility of the workforce in an organization has always been a key variable to predict the needs of planning, selection, training and human capital compensation. A global trend is to study this aspect from knowing the intended permanence of employees and take action to keep them, especially those who occupy key positions. This paper presents a study intended permanence of teachers at the University of Cienfuegos, using a regression model to predict the trend mobility and manage key variables to improve their behavior. A survey of quality of life at work is performed and results from multiple regression models are applied and one that provides best fit is selected.
+AB  - La movilidad de la fuerza de trabajo en una organización ha sido siempre una variable clave para predecir necesidades de planificación, selección, formación y compensación del capital humano. Una tendencia mundial es estudiar este aspecto a partir de conocer la intención de permanencia de los empleados y realizar acciones para retenerlos, sobre todo a los que ocupan cargos claves. Este trabajo presenta un estudio de intención de permanencia de los profesores de la Universidad de Cienfuegos, se utiliza un modelo de regresión que permite predecir la tendencia, su movilidad y gestionar las variables claves para mejorar su comportamiento. Se realiza una encuesta de calidad de vida en el trabajo y a partir de sus resultados se aplican varios modelos de regresión y se selecciona el que proporciona mejor ajuste.
+UR  - http://scielo.sld.cu/scielo.php?script=sci_arttext&pid=S2218-36202016000200002&lang=pt
+KW  - Organizational commitment
+KW  - intention of permanence
+KW  - mobility
+KW  - mathematical models
+KW  - Compromiso organizacional
+KW  - intención de permanencia
+KW  - movilidad
+KW  - modelos matemáticos
+ER  -
+
+TY  - JOUR
+AU  - Jesus, Renata Gomes de
+AU  - Rowe, Diva Ester Okazaki
+TI  - Percepção de políticas de gestão de pessoas e comprometimento organizacional: o papel mediador da percepção de justiça organizacional
+TT  - Perception of human resources management policies and organizational commitment: the mediating role of perception of organizational justice
+JO  - Tourism &amp; Management Studies
+J2  - Tourism &amp; Management Studies
+SN  - 2182-8458
+VL  - 11
+IS  - 2
+DO  - 10.18089/tms.2015.11226
+DB  - SciELO Portugal
+DP  - http://www.scielo.org/
+ID  - S2182-84582015000200025-prt
+LA  - pt
+SP  - 211
+EP  - 218
+DA  - 2015-07-31
+PY  - 2015
+AB  - This article analyzes the possible influences of the perception of political human resource in the organizational commitment, verifying the mediating role of the perception of organizational justice. For this, validated scales in the Brazilian context were used: Human Resources Management Policies and Practices Scale, Perceptions of Justice of Teachers in Higher Education Scale. Afective, Normative and Instrumental dimensions of Organizational Commitment Scale.The survey was administered among teachers in a Brazilian federal institution of education and a sample of 415 teachers was obtained. Multivariate analyzes and structural equation modeling was used. The results show that the dimensions of organizational commitment are influenced by the perception of the practices of human resource "Involvement" and "Remuneration" and these influences are mediated by perception of justice. It’s concluded that the positive perception of justice in practices of remuneration management and involvement increases organizational commitment, with greater weight in affective and normative bases.
+AB  - Este artigo teve como objetivo analisar as possíveis influências da percepção de políticas de gestão de pessoas no comprometimento organizacional, verificando o papel mediador da percepção de justiça organizacional. Para tanto, foram utilizadas escalas previamente validadas no contexto brasileiro, a saber: Escala de Políticas de Recursos Humanos, Escala de Percepções de Justiça dos Professores do Ensino Superior, dimensões afetiva, normativa e instrumental da escala de Comprometimento Organizacional. O survey on line foi aplicado entre docentes de uma instituição de ensino federal brasileira, que obteve uma amostra de 415 participantes. Para análise dos dados utilizou-se análises multivariadas e modelagens de equações estruturais. Os resultados mostram que as dimensões do comprometimento organizacional são influenciadas pela percepção das práticas de gestão de pessoas “Envolvimento” e “Remuneração” sendo estas influências mediadas pela percepção de justiça. Conclui-se que a percepção positiva de justiça nas práticas de gestão de remuneração e de envolvimento aumenta o comprometimento organizacional, com maior peso nas bases afetiva e normativa.
+UR  - http://www.scielo.pt/scielo.php?script=sci_arttext&pid=S2182-84582015000200025&lang=pt
+L1  - http://www.scielo.mec.pt/pdf/tms/v11n2/v11a2n25.pdf
+KW  - Comprometimento organizacional
+KW  - políticas de gestão de pessoas
+KW  - justiça organizacional
+KW  - docente
+KW  - instituto federal de ensino
+KW  - Organizational commitment
+KW  - human resources management policies
+KW  - organizational justice
+KW  - teacher
+KW  - federal institute of education
+ER  -
+
+TY  - JOUR
+AU  - Santos, Joana Vieira dos
+AU  - Gonçalves, Gabriela
+TI  - A determinação do empenhamento organizacional e do bem-estar no trabalho sobre o bem-estar subjetivo
+TT  - The influence of organizational commitment and well-being at work on subjective well-being
+TT  - La determinación en el compromiso organizacional y en el bienestar ocupacional sobre el bienestar subjetivo
+JO  - Revista Psicologia Organizações e Trabalho
+J2  - Rev. Psicol., Organ. Trab.
+SN  - 1984-6657
+VL  - 15
+IS  - 2
+DO  - 10.17652/rpot/2015.2.386
+DB  - SciELO Psi
+DP  - http://www.scielo.org/
+ID  - S1984-66572015000200003-psi
+LA  - pt
+SP  - 123
+EP  - 132
+DA  - 2015-06
+PY  - 2015
+AB  - Some studies indicate that, regardless of the attachment to some sort of organizational commitment in particular, this multidimensional construct predicts organizational outcomes such as performance, satisfaction, and well-being (Wright & Davis, 2001; Wright & Bonett, 2002). Studies conducted in the university setting show that organizational commitment seems to be reflected in the performance levels of academics; there was no difference between public and private universities (Karakus & Battal, 2009). The present study sought to analyze the influence of organizational commitment and well-being at work on subjective well-being. The sample consists of 635 employees, teachers and staff of higher education public institutions in Portugal. The results suggest a positive impact of affective commitment and well-being at work on subjective well-being. We suggest future studies, in order to deepen the theme.
+AB  - Algunos estudios señalan que, independientemente del vínculo con algún tipo de Compromiso Organizacional, este constructo multidimensional predice resultados organizacionales, tales como el rendimiento, la satisfacción y el bienestar (Wright & Davis, 2001; Wright & Bonett , 2002). Los estudios realizados en el contexto de las universidades expresan que el Compromiso Organizacional parecen reflejarse en los niveles de rendimiento de los profesores universitarios, no habiendo diferencias entre universidades públicas y privadas (Karakus & Battal, 2009). El presente estudio buscó analizar la determinación del Compromiso Organizacional y del bienestar profesional sobre el bienestar subjetivo. La muestra está constituida por 635 empleados, profesores y administrativos, de las instituciones de enseñanza superior públicas portuguesas. Los resultados sugieren una determinación positiva del Compromiso afectivo y del bienestar en el trabajo sobre el bienestar subjetivo. Se sugieren estudios futuros, de modo a profundizar el tema.
+AB  - Alguns estudos apontam que, independentemente da vinculação a algum tipo de empenhamento organizacional, este construto multidimensional prevê resultados organizacionais como o desempenho, a satisfação e o bem-estar (Wright & Davis, 2001; Wright & Bonett, 2002). Os estudos realizados no contexto das universidades expressam que o empenhamento organizacional parece se refletir nos níveis de desempenho dos docentes universitários, não ocorrendo diferenças entre instituições públicas e privadas (Karakus & Battal, 2009). Este estudo procurou analisar a determinação do empenhamento organizacional e do bem-estar profissional sobre o bem-estar subjetivo. A amostra foi constituída por 635 funcionários, docentes e não docentes, de instituições públicas de ensino superior portuguesas. Os resultados sugerem uma determinação positiva do empenhamento afetivo e do bem-estar no trabalho sobre o bem-estar subjetivo. Sugerem-se futuros estudos para que a temática seja aprofundada.
+UR  - /scielo.php?script=sci_arttext&pid=S1984-66572015000200003&lang=pt
+KW  - Compromiso organizacional
+KW  - bienestar subjetivo
+KW  - bienestar ocupacional
+KW  - Empenhamento organizacional
+KW  - bem-estar subjetivo
+KW  - bem-estar no trabalho
+KW  - Organizational commitment
+KW  - subjective well-being
+KW  - well-being at work
+ER  -
+
+TY  - JOUR
+AU  - Gúerreiro Figúeira, Dora de Jesús
+AU  - Pereira do Nascimento, José Luís Rocha
+AU  - Guita de Almeida, Maria Helena Rodrigues
+TI  - Relation between Organizational Commitment and Professional Commitment: an Exploratory Study Conducted with Teachers
+TT  - Relación entre el compromiso organizacional y el compromiso profesional: un estudio exploratorio realizado con docentes de educación superior pública
+JO  - Universitas Psychologica
+J2  - Universitas Psychologica
+SN  - 1657-9267
+VL  - 14
+IS  - 1
+DO  - 10.11144/Javeriana.upsy14-1.rboc
+DB  - SciELO Colômbia
+DP  - http://www.scielo.org/
+ID  - S1657-92672015000100004-col
+LA  - en
+SP  - 43
+EP  - 56
+DA  - 2015-03
+PY  - 2015
+AB  - The existence of several kinds of commitments in the workplace is well known. However, there are few studies that relate these different commitments or those established by deterministic models. This study explored the relationship between organizational and professional commitment in public higher education professors according to the multidimensional perspective of Meyer and Allen (1991), based on a convenience sample of 219 teachers. The proposed models were estimated through structural equation modeling methodology. Model 1 specified a relationship of direct influence of Professional Commitment on Organizational Commitment and Model 2 established the opposite relationship of direct influence of organizational commitment on professional commitment. Both models presented a good fit to the data without statistically significant differences between them. Nevertheless, the explanatory power of Model 1 was superior to Model 2, due to the fact that it includes a larger number of determinant relationships that are statistically significant. Theoretical and practical implications were discussed and new directions for future research were identified.
+AB  - Es conocida la existencia de distintos tipos de compromiso en el puesto de trabajo. Con todo, existen pocos estudios que los relacionen o que establezcan modelos determinísticos entre sí. Este estudio exploró la relación entre el Compromiso Organizacional y el Compromiso Profesional de docentes de educación superior pública, a partir de la perspectiva multidimensional de Meyer y Allen (1991), en base a una muestra de conveniencia constituida por 219 docentes. Los modelos propuestos se estimaron a través de la modelación de ecuaciones estructurales. El Modelo 1 especificó una relación de influencia directa del Compromiso Profesional sobre el Compromiso Organizacional y el Modelo 2 una relación inversa, de influencia directa del Compromiso Organizacional sobre el Compromiso Profesional. Los dos modelos presentaron un buen ajuste a los datos sin que se haya observado diferencias estadísticamente significativas entre sí. No obstante, el Modelo 1 por integrar un mayor número de relaciones de determinación estadísticamente significativas evidenció un poder explicativo superior al del Modelo 2. Se debatieron implicaciones teóricas y prácticas y se identificaron líneas futuras de investigación.
+UR  - http://www.scielo.org.co/scielo.php?script=sci_arttext&pid=S1657-92672015000100004&lang=pt
+L1  - http://www.scielo.org.co/pdf/rups/v14n1/v14n1a04.pdf
+KW  - compromiso organizacional
+KW  - compromiso profesional
+KW  - docentes de educación superior pública
+KW  - organizational commitment
+KW  - professional commitment
+KW  - public higher education professors
+ER  -
+
+TY  - JOUR
+AU  - Rowe, Diva Ester Okazaki
+AU  - Bastos, Antonio Virgílio Bittencourt
+AU  - Pinho, Ana Paula Moreno
+TI  - Múltiplos comprometimentos com o trabalho e suas influências no desempenho: um estudo entre professores do ensino superior no Brasil
+JO  - Organizações &amp; Sociedade
+J2  - Organizações &amp; Sociedade
+SN  - 1984-9230
+VL  - 20
+IS  - 66
+DB  - SciELO Brasil
+DP  - http://www.scielo.org/
+ID  - S1984-92302013000300008-scl
+LA  - pt
+SP  - 501
+EP  - 521
+DA  - 2013-09
+PY  - 2013
+AB  - This research analyzes, in teachers of higher education, the effects of links with the career (commitment and entrenchment) and with the Organization (commitment) in its performance. This is a cross-sectional research, involving a survey on line, whose questionnaire contained the previously validated scales for measuring the linkages with the work. To evaluate teacher performance, two indicators were used: self-evaluation of his instructional effort and a measure of academic production. The sample included 635 teachers of public and private institutions of higher education. The data were submitted to descriptive and multivariate analyses. To identify the impacts of links with the work on performance estimation method was used by partial least squares (partial least squares-PLS). In the models tested, the entrenchment on career and organizational commitment instrumental influence negatively the academic production of the teachers and the commitment to career influences positively the instructional effort. The results show relevant evidence as the working link is an important predictor of performance.
+AB  - O presente trabalho analisa, em docentes do ensino superior, os efeitos dos vínculos com a carreira (comprometimento e entrincheiramento) e com a organização (comprometimento) no seu desempenho. Trata-se de uma pesquisa de corte transversal, envolvendo um survey on line, cujo questionário continha as escalas previamente validadas para medir os vínculos com o trabalho. Para avaliar o desempenho docente foram utilizados dois indicadores: autoavaliação do seu esforço instrucional e uma medida de produção acadêmica. Obteve-se uma amostra de 635 professores de Instituições de Ensino Superior (IES) públicas e privadas. Os dados foram submetidos à análises descritivas e multivariadas. Para identificar os impactos dos vínculos com o trabalho no desempenho foi utilizado o método de estimação por mínimos quadrados parciais (partial least squares - PLS). Nos modelos testados, o entrincheiramento na carreira e o comprometimento organizacional instrumental influenciam negativamente a produção acadêmica dos professores, e o comprometimento com a carreira influencia positivamente o esforço instrucional. Evidências relevantes de como o vínculo do trabalho é um importante preditor do desempenho.
+UR  - http://www.scielo.br/scielo.php?script=sci_arttext&pid=S1984-92302013000300008&lang=pt
+KW  - Entrincheiramento na carreira
+KW  - Comprometimento com a carreira
+KW  - Comprometimento organizacional
+KW  - Produção acadêmica
+KW  - Esforço instrucional
+KW  - Entrenchment in the career
+KW  - Commitment to career
+KW  - Organizational commitment
+KW  - Academic production
+KW  - Instructional effort
+ER  -
+
+TY  - JOUR
+AU  - Traldi, Maria Teodora Farias
+AU  - Demo, Gisela
+TI  - Comprometimento, bem-estar e satisfação dos professores de administração de uma universidade federal
+TT  - Commitment, well-being and satisfaction of management professors at a federal university
+TT  - Comprometimiento organizacional, bien estar y satisfacción en el trabajo de los profesores de administración de una universidad federal
+JO  - REAd. Revista Eletrônica de Administração (Porto Alegre)
+J2  - REAd. Revista Eletrônica de Administração (Porto Alegre)
+SN  - 1413-2311
+VL  - 18
+IS  - 2
+DB  - SciELO Brasil
+DP  - http://www.scielo.org/
+ID  - S1413-23112012000200001-scl
+LA  - pt
+SP  - 290
+EP  - 316
+DA  - 2012-08
+PY  - 2012
+AB  - Research on organizational commitment, well-being and job satisfaction have been performed successfully in the field of Organizational Psychology. New studies indicate a possible interdependence between these constructs. The main objective of this research was to investigate the relationships between organizational commitment, well-being and job satisfaction, through a census conducted with 104 professors of Management at a Federal University, with a response rate of 78%. This survey consists of an explanatory-descriptive study, having transversal and quantitative nature. The results showed that teachers had good levels of achievement at work and positive affect predominant over negative affect; they also expressed their satisfaction at work on the bosses, colleagues and the nature of work. The normative organizational commitment was the only one who contributed to the explanation of satisfaction with salary. The calculative organizational commitment has contributed to the explanation of the factors leading to satisfaction and satisfaction with the promotions. Finally, affective organizational commitment was the main predictor of well-being and job satisfaction. This work contributed to both the academic field of Organizational Behavior, as for decision making regarding the management policies of the professors surveyed, with the expectation that both professors and students can enjoy a better environment for learning and knowledge production.
+AB  - Las investigaciones sobre el comprometimiento organizacional, el bien estar y la satisfacción en el trabajo continúan a realizarse con éxito en el área de la Psicología Organizacional. Nuevos estudios señalan una posible interdependencia entre estos constructos. El objetivo mayor de esta investigación fue estudiar las relaciones entre comprometimiento organizacional, bien estar y satisfacción en el trabajo, por medio de un censo realizado con los 104 profesores de Administración de una Universidad Federal, con índice de respuestas de 78%. Se trata de una investigación de campo, explicativa-descriptiva, poseyendo carácter transversal y naturaleza cuantitativa. Los resultados mostraran que los profesores presentaran buenos niveles de realización en el trabajo e afectos positivos prevalentes en relación a los afectos negativos; se declararan satisfechos en el trabajo cuanto a los jefes, a los colegas e a la naturaleza del trabajo. El comprometimiento organizacional normativo fue el único que contribuyó para la explicación de la satisfacción con el salario. El comprometimiento organizacional calculativo contribuyó para la explicación de los factores satisfacción con los jefes y satisfacción con las promociones. Finalmente, el comprometimiento organizacional afectivo fue el principal predictor del bien estar e de la satisfacción en el trabajo. Este trabajo contribuyó tanto para la producción académica de las áreas de Psicología y Comportamiento Organizacional, cuanto para la domada de decisión frente a las políticas de gestión de los profesores investigados, en la perspectiva de que docentes y discentes puedan desfrutar de un ambiente mejor de aprendizaje y producción de conocimiento.
+AB  - As pesquisas sobre o comprometimento organizacional, o bem-estar e a satisfação no trabalho vêm sendo realizadas com êxito na área de Psicologia Organizacional. Novos estudos sinalizam uma possível interdependência entre estes construtos. O objetivo precípuo desta pesquisa foi investigar as relações entre comprometimento organizacional, bem-estar e satisfação no trabalho, através de um censo realizado com os 104 professores de Administração de uma Universidade Federal, com taxa de resposta de 78%. Trata-se de uma pesquisa de campo, explicativa-descritiva, possuindo caráter transversal e natureza quantitativa. Os resultados mostraram que os professores apresentaram bons níveis de realização no trabalho e afetos positivos prevalentes em relação aos afetos negativos; declararam-se satisfeitos no trabalho quanto à chefia, aos colegas e à natureza do trabalho. O comprometimento organizacional normativo foi o único que contribuiu para a explicação da satisfação com o salário. O comprometimento organizacional calculativo contribuiu para a explicação dos fatores satisfação com a chefia e satisfação com as promoções. Finalmente, o comprometimento organizacional afetivo foi o principal preditor do bem-estar e da satisfação no trabalho. Este trabalho contribuiu tanto para a produção acadêmica das áreas de Psicologia e Comportamento Organizacional, quanto para a tomada de decisão quanto às políticas de gestão dos professores pesquisados, na perspectiva de que docentes e discentes possam desfrutar de um melhor ambiente de aprendizagem e produção do conhecimento.
+UR  - http://www.scielo.br/scielo.php?script=sci_arttext&pid=S1413-23112012000200001&lang=pt
+KW  - Comprometimento organizacional
+KW  - bem-estar no trabalho
+KW  - satisfação no trabalho
+KW  - professores de Administração
+KW  - Universidade Federal
+KW  - organizational commitment
+KW  - well-being at work
+KW  - satisfaction at work
+KW  - Management professors
+KW  - Federal University
+KW  - comprometimiento organizacional
+KW  - bien estar en el trabajo
+KW  - satisfacción en el trabajo
+KW  - profesores de Administración
+KW  - Universidad Federal
+ER  -
+
+TY  - JOUR
+AU  - Sousa, Ivone Félix de
+AU  - Mendonça, Helenides
+TI  - Burnout em professores universitários: impacto de percepções de justiça e comprometimento afetivo
+TT  - Burnout among university professors: impact of justice perceptions and affective commitment
+JO  - Psicologia: Teoria e Pesquisa
+J2  - Psicologia: Teoria e Pesquisa
+SN  - 0102-3772
+VL  - 25
+IS  - 4
+DB  - SciELO Brasil
+DP  - http://www.scielo.org/
+ID  - S0102-37722009000400005-scl
+LA  - pt
+SP  - 499
+EP  - 508
+DA  - 2009-12
+PY  - 2009
+AB  - This study aimed to analyze the mediational power of the affective organizational commitment in the relation among the perceptions of distributive, procedural, and interactional justice and burnout. Participants were 233 university professors. The following instruments were used: Maslach Burnout Inventory, Organizational Justice Perception Scale, and Organizational Commitment Questionnaire. We analyzed the mediational power of commitment in the relation between perception of justice and burnout, from a hierarchical regression. The mediational power of commitment was confirmed in the relationship between the perceptions of distributive justice and exhaustion. It can be concluded that the perceptions of injustice in the form of resource distribution may lead university professors to exhaustion, which might be more likely to happen if there is lack of commitment.
+AB  - Esta pesquisa objetivou analisar o poder mediacional do comprometimento organizacional afetivo na relação entre as percepções de justiça distributiva, processual e interacional e o burnout. Participaram da pesquisa 233 professores universitários. Foram aplicados os instrumentos avaliativos Maslach Burnout Inventory, Escala de Percepção de Justiça Organizacional e Organizational Commitment Questionnaire. Analisou-se o poder mediacional do comprometimento na relação entre a percepção de justiça e o burnout, a partir da regressão hierárquica. O poder mediacional do comprometimento se confirmou na relação entre percepção de justiça distributiva e exaustão. Concluiu-se que a percepção de injustiça na forma de distribuição de recursos pode levar o professor universitário à exaustão, o que pode ter probabilidade aumentada diante da falta de comprometimento.
+UR  - http://www.scielo.br/scielo.php?script=sci_arttext&pid=S0102-37722009000400005&lang=pt
+KW  - burnout
+KW  - justiça organizacional
+KW  - comprometimento organizacional afetivo
+KW  - burnout
+KW  - organizational justice
+KW  - affective organizational commitment
+ER  -
+
+TY  - JOUR
+AU  - Rego, Arménio
+TI  - Climas de justiça e comprometimento organizacional
+TT  - Justice climates and affective commitment
+JO  - Revista Psicologia Organizações e Trabalho
+J2  - Rev. Psicol., Organ. Trab.
+SN  - 1984-6657
+VL  - 3
+IS  - 1
+DB  - SciELO Psi
+DP  - http://www.scielo.org/
+ID  - S1984-66572003000100003-psi
+LA  - pt
+SP  - 27
+EP  - 60
+DA  - 2003-06
+PY  - 2003
+AB  - The study aims at showing how five justice dimensions (interpersonal, informational, procedural, task distribution, rewards distribution) explain affective commitment of teacher. Data from a sample comprising 309 teachers from 12 departments/schools of four universities and four polytechnics was collected. The main findings are the following: a) at individual level, only interpersonal and procedural justice explain affective commitment; b) the relationships between justice perceptions and commitment are moderated by aggregated justice, in such way that positive justice climates reinforce the reactions to individual perceptions; c) when people work in heterogeneous contexts, their reactions to individual perceptions are also reinforced. The study focuses the attention on the importance of contextual justice, and suggests that the reactions to aggregated justice can be contingent on the kind of organization and/or organizational activity of their members
+AB  - A pesquisa testa o poder explicativo de cinco dimensões de justiça (interpessoal, informacional, procedimental, distributiva das tarefas, distributiva das recompensas) para o comprometimento afectivo dos professores do ensino superior. A amostra é constituída por 309 professores de 12 escolas/departamentos de oito instituições (quatro universidades e quatro instituições politécnicas). Eis os principais resultados: a) ao nível de análise individual, apenas a justiça interpessoal e procedimental explicam o comprometimento; b) as relações entre as percepções de justiça e o comprometimento são moderadas pela justiça agregada, sendo que os climas positivos de justiça reforçam os efeitos das percepções individuais dejustiça; c) a dispersão de percepções também interfere no modo como as pessoas respondem às suas percepções de justiça, sendo que os contextos caracterizados por elevadas dispersões reforçam as respostas atitudinais às percepções de (in)justiça. O estudo apela para a necessidade de encarar a justiça como fenomeno de natureza individual mas também contextual, e alerta para a eventualidade de os padrões reactivos serem contingentes do tipo de actividade exercida ou organização
+UR  - /scielo.php?script=sci_arttext&pid=S1984-66572003000100003&lang=pt
+KW  - comprometimento afectivo
+KW  - justiça organizacional
+KW  - climas de justiça
+KW  - justiça agregada
+KW  - affective commitment
+KW  - organizational justice
+KW  - justice climates
+KW  - aggregated justice
+ER  -
