@@ -10,4 +10,5 @@ Pesquisas exportações das bases de dados
 - wos_export_results_Mar 10-2026.ris
 - scielo_export_results_Mar 10-2026.ris
 
-Modelo de Extração de dados (pdf)
+Extração e organização dos dados e gráficos
+- Extração, organzação dos dados e gráficos - Versão Final.xlsx
